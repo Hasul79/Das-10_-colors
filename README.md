@@ -2,4 +2,4 @@
 
  https://hasul79.github.io/Das-10_-colors/
  
- # autor: Hasmik Minasyan
+ # author: Hasmik Minasyan
